@@ -1,4 +1,6 @@
-🎵 Spotify End-to-End Data Engineering Pipeline (Production-Grade)
+# Spotify data engineering pipeline
+
+Follow Spotify track data from ingestion to reporting. Start with the [architecture](./architecture), walk through the [implementation guide](./IMPLEMENTATION_GUIDE.md), or jump to the [Airflow DAGs](./dags) and [Athena queries](./athena).
 
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 ![Python](https://img.shields.io/badge/python-3.9+-blue)
